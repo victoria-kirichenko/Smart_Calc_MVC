@@ -2,6 +2,10 @@
 My new and improved calculator which is now entirely written in C++ using a pattern MVC.
 The calculator has the ability to calculate basic and trigonometric functions, build a graph, use of variable "x" and credit calculator.
 
+## Pattern MVC
+
+![MVC-Process](https://user-images.githubusercontent.com/88627479/186530391-58e5aba0-6a38-421d-b432-3fa798014847.png)
+
 ## The rules
 1. If you have x in the expression, enter it on the line below.
 ![calc_example_x](https://user-images.githubusercontent.com/88627479/186529182-b18424e1-7d24-4ad4-a73d-67eef416dd28.gif)
